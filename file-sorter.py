@@ -86,7 +86,7 @@ with open(htmlPath, 'r', encoding="utf-8") as htmlFile:
                 string = re.sub(pattern, 'images'+ r'\1', string)
                 
             htmlWrite.write(string)
-print('success!')
+print('success new html has been created!')
 
  
 
