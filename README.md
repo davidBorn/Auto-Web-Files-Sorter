@@ -3,7 +3,7 @@ After downloading web files from a website through your browser, you can then us
 
 <h1>Instructions</h1>
 <ul>
-  <li>1. Download Files</li>
+  <li>1. Download or Clone Directory</li>
   <li>2. Download Python 3 </li>
   <li>3. Configure your "file-sorter.py file by replacing the paths, making sure that it is a directory you usually download your web files</li>
   <li>4. Download the webpage you want.</li>
